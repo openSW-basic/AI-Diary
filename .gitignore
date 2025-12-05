@@ -1,0 +1,37 @@
+# === Global OS Files ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*.log
+*.hprof
+
+# === Environment Files ===
+.env
+.env.*
+.envrc
+*.local
+
+# === Node (공통) ===
+**/node_modules/
+**/dist/
+**/coverage/
+**/npm-debug.log
+**/yarn-error.log
+
+# === Docker ===
+**/docker-compose.override.yml
+**/.docker/
+**/*.pid
+**/*.sock
+**/docker-volume/
+**/var/
+**/log/
+**/tmp/
+
+# === IDEs / Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
