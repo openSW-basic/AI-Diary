@@ -1,22 +1,5 @@
-<br/><br/>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/acfc0fa1-55ba-4934-ac51-c7edd66c18b6" width="200" alt="AiRing" />
-  <h3 align="center">매일매일 전화로 기록하는 나의 하루, 아이링(AiRing)</h3>
-  <p align="center">
-    음성 기반 AI 통화로 간편하게 하루를 기록해보세요.<br>
-    AI가 듣고, 공감하고, 일기로 정리해드립니다.
-  </p>
-  <p align="center">
-    📱 <a href="https://file.notion.so/f/f/94307929-c5e3-48fa-b0fc-4859be48e042/43d5a41d-5283-4dd6-b448-7741b76f9cc7/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%95%A9%EB%B3%B8-1080p.mp4?table=block&id=21c8ad35-8684-805f-857c-fab4ec80a51d&spaceId=94307929-c5e3-48fa-b0fc-4859be48e042&expirationTimestamp=1750780800000&signature=_0zSuI1CiMRhfjdi_YLqmf4UDIt7tvGuqf_f-zXVOVg&downloadName=%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%95%A9%EB%B3%B8-1080p.mp4">시연 영상</a>
-  </p>
-</p>
-
-<br/><br/>
 
 # ✨ 주요 기능
-
-<!-- TODO: 시연 gif 추가 -->
 
 ## AI 전화 통화 기반 일기 작성
 
@@ -51,35 +34,7 @@
 이 프로젝트를 다운로드 받습니다.
 
 ```bash
-git clone https://github.com/AiRing-Project/AiRing.git
+git clone https://github.com/openSW-basic/AI-Diary.git
 ```
 
-환경 설정 방법은 각각 `frontend`, `backend`, `ai` 폴더에 있는 `README.md` 파일에서 확인할 수 있습니다.
 
--   [Frontend 환경 설정 안내](https://github.com/AiRing-Project/AiRing/blob/main/frontend/README.md)
--   [Backend 환경 설정 안내](https://github.com/AiRing-Project/AiRing/blob/main/backend/README.md)
--   [AI 환경 설정 안내](https://github.com/AiRing-Project/AiRing/blob/main/ai/README.md)
-
-# 🛠️ 기술 스택
-
-[![AiRing Tech Stack](https://github.com/user-attachments/assets/294764be-6ef5-4003-941d-f9ce3a09d258)](https://app.cloudcraft.co/view/54ab248a-a4cc-4f6a-9c2c-0054115662c4?key=e4889bf9-338e-4e8e-8309-60dbcd1cf9e4)
-
-# 🏗️ 프로젝트 구조
-
-[![AiRing Architecture](https://github.com/user-attachments/assets/41539f81-8d33-43f0-82bb-9f98f0919868)](https://app.cloudcraft.co/view/f346f35f-b5eb-4e8b-b83c-e43cfdb18315?key=36f6821d-a06a-4bc8-a452-5de70793113f)
-
-# 🛠️ 설계
-
-## ERM
-
-![AiRing ERM](https://github.com/user-attachments/assets/c80f2e8a-5c29-40ac-b944-515f6ebc0583)
-
-## ERD
-
-![AiRing ERD](https://github.com/user-attachments/assets/101e0f83-3d50-4c02-9d04-ed77a7928736)
-
-## WireFrame
-
-![AiRing WireFrame](https://github.com/user-attachments/assets/3f97fcc1-50de-46e4-9a33-a63a6be5b6bc)
-
-<!-- TODO: WiKi 작성 후 링크 추가하기 -->
