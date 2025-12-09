@@ -25,4 +25,5 @@
 git clone https://github.com/openSW-basic/AI-Diary.git
 ```
 
+## ai, backend, frontend Readme에 개발자, 사용자 가이드가 있습니다.
 
